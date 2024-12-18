@@ -52,12 +52,19 @@ _(2022 - 2026)_
 
 ---
 
-## 📊 **GitHub Stats**
-
-![Kankati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kankatianurag&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kankatianurag&layout=compact&theme=dark)
+Here is the modified **GitHub Stats** section with the correct username and link:
 
 ---
+
+## 📊 **GitHub Stats**
+
+![Kankati Mokshagna Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MokshagnaAnurag&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MokshagnaAnurag&layout=compact&theme=dark)
+
+---
+
+
+Let me know if you need additional changes or want to add other GitHub visualizations like contributions heatmaps or streak stats! 🚀
 
 ## 🌐 **Let's Connect!**
 
