@@ -10,24 +10,28 @@ Here is the updated version based on your request:
 
 ---
 
+Here is the modified version with **consistent badge styling** like the Python, Numpy, and TensorFlow examples provided:
+
+---
+
 ### **Programming**  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)  
-![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=mathworks)
+![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ### **Web Technologies**  
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Tools & Technologies**  
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)  
-![VAPT](https://img.shields.io/badge/-VAPT-05122A?style=flat)  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
-![Nmap](https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=nmap)  
-![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)  
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-05122A?style=flat&logo=burp-suite)  
-![IoT](https://img.shields.io/badge/-IoT-05122A?style=flat&logo=internet-of-things)  
-![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-05122A?style=flat&logo=stmicroelectronics)
+![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![VAPT](https://img.shields.io/badge/VAPT-000000?style=for-the-badge&logo=security&logoColor=white)  
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Nmap](https://img.shields.io/badge/NMAP-0E8A16?style=for-the-badge&logo=nmap&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/BURP_SUITE-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)  
+![IoT](https://img.shields.io/badge/IOT-1E4F72?style=for-the-badge&logo=internet-of-things&logoColor=white)  
+![Embedded Systems](https://img.shields.io/badge/EMBEDDED_SYSTEMS-003B6F?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 ---
 
@@ -53,11 +57,13 @@ _(2022 - 2026)_
 
 ## 🏆 **Achievements**
 
-- Completed **Boston House Price Prediction** using Regression Models.  
-- Contributed to **GirlScript Summer of Code** _(2024)_.
-- Built an **Automatic Vehicle Number Plate Detection System** using OpenCV.
+🔥 Finalist in AVISHKAR Season-2 Hackathon
 
+Successfully qualified for the final round with innovative solutions and technical expertise.
 ---
+🎖️ Top 6 in Embedded Scholarship Exam
+
+Secured a position among the Top 6 in the Embedded Scholarship Exam conducted by SENSE Academia.
 
 Here is the modified **GitHub Stats** section with the correct username and link:
 
@@ -75,8 +81,9 @@ Let me know if you need additional changes or want to add other GitHub visualiza
 
 ## 🌐 **Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_PROFILE)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat)](YOUR_PORTFOLIO_LINK)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/kankati-mokshagna-anurag)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat)](https://mokshagnaanurag.github.io/Portfolio/)  
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:kankati.mokshagnaanurag@gmail.com)
+
 
 ---
