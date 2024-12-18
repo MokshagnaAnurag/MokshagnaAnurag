@@ -1,18 +1,10 @@
 # Hi there, I'm **KANKATI MOKSHAGNA ANURAG** 👋
 
-Welcome to my GitHub profile! I’m a passionate **Cybersecurity Specialist** and **Full-Stack Developer** with expertise in **IoT**, **Embedded Systems**, and **Machine Learning**.
+Welcome to my GitHub profile! I’m a passionate **Cybersecurity Specialist** and **Full-Stack Developer** with expertise in **IoT**, **Embedded Systems**, and **Machine Learning**. I love solving complex challenges with innovative solutions and am always eager to learn and grow in the tech field.
 
 ---
 
 ## 🚀 **Tech Stack**
-
-Here is the updated version based on your request:
-
----
-
-Here is the modified version with **consistent badge styling** like the Python, Numpy, and TensorFlow examples provided:
-
----
 
 ### **Programming**  
 ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -37,13 +29,13 @@ Here is the modified version with **consistent badge styling** like the Python, 
 
 ## 💼 **Work Experience**
 
-- **Technical Support Engineering Intern**  
-  - Troubleshooting computer systems, software, and networks.  
-  - Collaborated with cross-functional teams to resolve complex issues.
+### **Technical Support Engineering Intern**  
+- Troubleshot complex computer systems, software, and network issues.  
+- Collaborated with cross-functional teams to deliver solutions and enhance user experience.
 
-- **Cyber Security Internship at ShadowFox** _(Sept 2024 - Oct 2024)_  
-   - Conducted penetration testing and vulnerability analysis.  
-   - Tools: `Nmap`, `Gobuster`, `Metasploit`, `Wireshark`.
+### **Cyber Security Internship at ShadowFox** _(Sept 2024 - Oct 2024)_  
+- Conducted penetration testing and vulnerability analysis on systems and networks.  
+- Utilized tools like `Nmap`, `Gobuster`, `Metasploit`, and `Wireshark` to identify and resolve security flaws.
 
 ---
 
@@ -57,15 +49,11 @@ _(2022 - 2026)_
 
 ## 🏆 **Achievements**
 
-🔥 Finalist in AVISHKAR Season-2 Hackathon
+🔥 **Finalist in AVISHKAR Season-2 Hackathon**  
+- Qualified for the final round with innovative solutions and technical expertise.
 
-Successfully qualified for the final round with innovative solutions and technical expertise.
----
-🎖️ Top 6 in Embedded Scholarship Exam
-
-Secured a position among the Top 6 in the Embedded Scholarship Exam conducted by SENSE Academia.
-
-Here is the modified **GitHub Stats** section with the correct username and link:
+🎖️ **Top 6 in Embedded Scholarship Exam**  
+- Secured a position among the top 6 in the Embedded Scholarship Exam conducted by SENSE Academia.
 
 ---
 
@@ -76,14 +64,10 @@ Here is the modified **GitHub Stats** section with the correct username and link
 
 ---
 
-
-Let me know if you need additional changes or want to add other GitHub visualizations like contributions heatmaps or streak stats! 🚀
-
 ## 🌐 **Let's Connect!**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/kankati-mokshagna-anurag)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat)](https://mokshagnaanurag.github.io/Portfolio/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=appstore&logoColor=white)](https://mokshagnaanurag.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:kankati.mokshagnaanurag@gmail.com)
-
 
 ---
