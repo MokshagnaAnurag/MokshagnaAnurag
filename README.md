@@ -6,21 +6,28 @@ Welcome to my GitHub profile! I’m a passionate **Cybersecurity Specialist** an
 
 ## 🚀 **Tech Stack**
 
+Here is the updated version based on your request:
+
+---
+
+### **Programming**  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)  
+![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=mathworks)
+
 ### **Web Technologies**  
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5) 
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)  
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 
-### **Programming Languages**  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2b%2b)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-
-### **Tools**  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)  
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+### **Tools & Technologies**  
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)  
+![VAPT](https://img.shields.io/badge/-VAPT-05122A?style=flat)  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
+![Nmap](https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=nmap)  
+![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)  
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-05122A?style=flat&logo=burp-suite)  
+![IoT](https://img.shields.io/badge/-IoT-05122A?style=flat&logo=internet-of-things)  
+![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-05122A?style=flat&logo=stmicroelectronics)
 
 ---
 
