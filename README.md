@@ -49,18 +49,28 @@ _(2022 - 2026)_
 
 ## 🏆 **Achievements**
 
+🏅 **Winner of Cyber Secured Champion Competition**  
+- Conducted by Cyber Intelligence Global LLP, recognized for exceptional cybersecurity skills and innovative problem-solving.
+
 🔥 **Finalist in AVISHKAR Season-2 Hackathon**  
 - Qualified for the final round with innovative solutions and technical expertise.
 
 🎖️ **Top 6 in Embedded Scholarship Exam**  
 - Secured a position among the top 6 in the Embedded Scholarship Exam conducted by SENSE Academia.
 
+🚀 **Participant in the Government of Andhra Pradesh Hackathon on Drones**  
+- Proposed innovative solutions focused on advanced drone technology applications, reviewed by a panel of judges.
+
+
 ---
 
 ## 📊 **GitHub Stats**
 
 ![Kankati Mokshagna Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MokshagnaAnurag&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MokshagnaAnurag&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MokshagnaAnurag&layout=compact&theme=dark)  
+
+### 🧑‍💻 **Profile Views**
+![Profile Views](https://komarev.com/ghpvc/?username=MokshagnaAnurag&color=blue&style=flat)
 
 ---
 
