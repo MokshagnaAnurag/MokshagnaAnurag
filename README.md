@@ -45,6 +45,10 @@ Welcome to my GitHub profile! I’m a passionate **Cybersecurity Specialist**   
 ### Automation  
 ![IFTTT](https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=ifttt&logoColor=white)
 
+### Networking  
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-1A73E8?style=for-the-badge&logo=cisco&logoColor=white)
+
+
 ### Design Tools  
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
