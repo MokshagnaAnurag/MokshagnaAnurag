@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I’m a passionate **Cybersecurity Specialist**   
 ![SQL Injection](https://img.shields.io/badge/SQL_Injection-FF0000?style=for-the-badge&logo=security&logoColor=white)
 ![Command Line Injection](https://img.shields.io/badge/Command_Line_Injection-FF4500?style=for-the-badge&logo=linux&logoColor=white)
 ![XSS](https://img.shields.io/badge/XSS-800080?style=for-the-badge&logo=security&logoColor=white)
-![Networks](https://img.shields.io/badge/Computer_Networks-1A73E8?style=for-the-badge&logo=cisco&logoColor=white)
+![Networks](https://img.shields.io/badge/Networks-1A73E8?style=for-the-badge&logo=cisco&logoColor=white)
 
 
 ### Design Tools  
