@@ -4,26 +4,39 @@ Welcome to my GitHub profile! I’m a passionate **Cybersecurity Specialist**   
 
 ---
 
-## 🚀 **Tech Stack**
+## 🚀 Tech Stack
 
-### **Programming**  
-![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&logo=python)
+### Programming Languages  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-### **Web Technologies**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+### Web Technologies  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **Tools & Technologies**  
-![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![VAPT](https://img.shields.io/badge/VAPT-000000?style=for-the-badge&logo=security&logoColor=white&logo=python)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Nmap](https://img.shields.io/badge/NMAP-0E8A16?style=for-the-badge&logo=nmap&logoColor=white&logo=eye) 
-![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Burp Suite](https://img.shields.io/badge/BURP_SUITE-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)  
-![IoT](https://img.shields.io/badge/IOT-1E4F72?style=for-the-badge&logo=internet-of-things&logoColor=white&logo=wifi)
-![Embedded Systems](https://img.shields.io/badge/EMBEDDED_SYSTEMS-003B6F?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+### Frameworks & Libraries  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Technologies  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-1E4F72?style=for-the-badge&logo=internet-of-things&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-003B6F?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
+### Cybersecurity  
+![Nmap](https://img.shields.io/badge/Nmap-0E8A16?style=for-the-badge&logo=nmap&logoColor=white)
+![VAPT](https://img.shields.io/badge/VAPT-000000?style=for-the-badge&logo=security&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+---
 
 ---
 
