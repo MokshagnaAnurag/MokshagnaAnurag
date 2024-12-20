@@ -31,12 +31,19 @@ Welcome to my GitHub profile! I’m a passionate **Cybersecurity Specialist**   
 ![IoT](https://img.shields.io/badge/IoT-1E4F72?style=for-the-badge&logo=internet-of-things&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-003B6F?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Blink IoT](https://img.shields.io/badge/Blink_IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### Cybersecurity  
 ![Nmap](https://img.shields.io/badge/Nmap-0E8A16?style=for-the-badge&logo=nmap&logoColor=white)
 ![VAPT](https://img.shields.io/badge/VAPT-000000?style=for-the-badge&logo=security&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+![SQL Injection](https://img.shields.io/badge/SQL_Injection-FF0000?style=for-the-badge&logo=security&logoColor=white)
+![Command Line Injection](https://img.shields.io/badge/Command_Line_Injection-FF4500?style=for-the-badge&logo=linux&logoColor=white)
+![XSS](https://img.shields.io/badge/XSS-800080?style=for-the-badge&logo=security&logoColor=white)
+
+### Automation  
+![IFTTT](https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=ifttt&logoColor=white)
 
 ### Design Tools  
 
