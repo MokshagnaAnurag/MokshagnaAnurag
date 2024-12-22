@@ -86,11 +86,6 @@ _(2022 - 2026)_
 
 ---
 
-## 🏆 **LeetCode Stats**
-
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=MOKSHAGNAANURAG&theme=dark)
-
----
 
 ## 🌐 **Let's Connect!**
 
