@@ -91,4 +91,4 @@ _(2022 - 2026)_
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/kankati-mokshagna-anurag)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=google-chrome&logoColor=white)](https://mokshagnaanurag.github.io/Portfolio/)  
-[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:kankati.mokshagnaanurag@gmail.com
+[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:kankati.mokshagnaanurag@gmail.com) 
