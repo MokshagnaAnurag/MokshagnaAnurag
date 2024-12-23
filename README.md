@@ -1,7 +1,3 @@
-Here's the updated version with your LeetCode stats included:
-
----
-
 # Hi there, I'm **KANKATI MOKSHAGNA ANURAG** 👋
 
 Welcome to my GitHub profile! I’m a passionate **Cybersecurity Specialist** with expertise in **IoT**, **Embedded Systems**, and **Machine Learning**. I love solving complex challenges with innovative solutions and am always eager to learn and grow in the tech field.
