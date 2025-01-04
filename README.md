@@ -70,10 +70,18 @@ _(2022 - 2026)_
 🏅 **Winner of Cyber Secured Champion Competition**  
 - Conducted by Cyber Intelligence Global LLP, recognized for exceptional cybersecurity skills and innovative problem-solving.
 
-🔥 **Finalist in AVISHKAR Season-2 Hackathon**  
-🎖️ **Top 6 in Embedded Scholarship Exam**
+🥈 **Secured Second Position in AVISHKAR Season-2 Hackathon**  
+- A National Level 48-Hour Hackathon, and won a cash prize of ₹1 Lakh.
 
----
+🔥 **Finalist in Serve Smart Hackathon**  
+- Among the top 10 teams selected as finalists for the event conducted by IIT Banaras.
+
+🎖️ **Top 6 in Embedded Scholarship Exam**  
+- Secured Top 6 position in the scholarship exam conducted by SENSE Academia.
+
+🚀 **Participant in Andhra Pradesh Hackathon on Drones**  
+- Proposed innovative solutions reviewed by judges, focusing on advanced drone technology applications.
+
 
 ## 📊 **GitHub Stats**
 
