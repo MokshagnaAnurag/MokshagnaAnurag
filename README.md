@@ -7,9 +7,7 @@ Welcome to my GitHub profile! I’m a passionate **Cybersecurity Specialist** wi
 ## 🚀 Tech Stack  
 
 ### Programming Languages  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
 
 ### Web Technologies  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -99,14 +97,8 @@ _(2022 - 2026)_
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:kankati.mokshagnaanurag@gmail.com)  
 
 ---
-
-Here’s the updated section with a fitting emoji added for profile views:
-
----
-
 ## 👁️‍🗨️  **Profile Views**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MokshagnaAnurag&style=for-the-badge)  
 
---- 
 
