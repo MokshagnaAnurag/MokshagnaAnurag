@@ -87,8 +87,7 @@ _(2022 - 2026)_
 ## 📊 **GitHub Stats**  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MokshagnaAnurag&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MokshagnaAnurag&layout=compact&theme=dark)  
-![Profile Views](https://komarev.com/ghpvc/?username=MokshagnaAnurag&style=for-the-badge)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MokshagnaAnurag&layout=compact&theme=dark)   
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MokshagnaAnurag&theme=dark)  
 
 ---
@@ -100,3 +99,14 @@ _(2022 - 2026)_
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:kankati.mokshagnaanurag@gmail.com)  
 
 ---
+
+Here’s the updated section with a fitting emoji added for profile views:
+
+---
+
+## 👁️‍🗨️  **Profile Views**  
+
+![Profile Views](https://komarev.com/ghpvc/?username=MokshagnaAnurag&style=for-the-badge)  
+
+--- 
+
