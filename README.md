@@ -76,6 +76,24 @@ _(2022 - 2026)_
 
 ---
 
+## 🏆 **GitHub Trophies**  
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MokshagnaAnurag&theme=darkhub&no-frame=true&margin-w=15)
+
+---
+
+## 🚀 **Activity Graph**  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MokshagnaAnurag&theme=react-dark&hide_border=true)
+
+---
+
+## 📈 **Metrics**  
+
+![GitHub Metrics](https://metrics.lecoq.io/MokshagnaAnurag?template=classic&config.timezone=Asia%2FCalcutta)
+
+---
+
 ## 🌐 **Let's Connect!**  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/kankati-mokshagna-anurag)  
