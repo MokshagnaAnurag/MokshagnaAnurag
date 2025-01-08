@@ -73,7 +73,6 @@ _(2022 - 2026)_
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MokshagnaAnurag&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MokshagnaAnurag&layout=compact&theme=dark)   
 ![Contributions Streak](https://github-readme-streak-stats.herokuapp.com/?user=MokshagnaAnurag&theme=dark)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MokshagnaAnurag&theme=darkhub&no-frame=true&margin-w=15)
 
 ---
 
