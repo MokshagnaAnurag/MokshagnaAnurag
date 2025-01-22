@@ -1,5 +1,7 @@
 # Hi there, I'm **KANKATI MOKSHAGNA ANURAG** 👋  
 
+![Animated Image](https://via.placeholder.com/600x400.png?text=Animated+Image+Placeholder)  
+
 Welcome to my GitHub profile! I’m a passionate **Cybersecurity Specialist** with expertise in **IoT**, **Embedded Systems**, and **Machine Learning**. I love solving complex challenges with innovative solutions and am always eager to learn and grow in the tech field.  
 
 ---
