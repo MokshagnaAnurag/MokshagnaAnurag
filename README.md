@@ -12,51 +12,8 @@ Welcome to my GitHub profile! I’m a passionate **Cybersecurity Specialist** wi
 
 ## 🚀 Tech Stack  
 
-### 🧠 Programming & Scripting  
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)  
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/) [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/) [![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=openai&logoColor=white)](https://en.wikipedia.org/wiki/Large_language_model) [![NLP](https://img.shields.io/badge/NLP-00599C?style=for-the-badge&logo=natural-language-processing&logoColor=white)](https://en.wikipedia.org/wiki/Natural_language_processing) [![Nmap](https://img.shields.io/badge/Nmap-0E8A16?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/) [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/) [![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp) [![VAPT](https://img.shields.io/badge/VAPT-000000?style=for-the-badge&logo=security&logoColor=white)](https://en.wikipedia.org/wiki/Vulnerability_assessment) [![IoT](https://img.shields.io/badge/IoT-1E4F72?style=for-the-badge&logo=internet-of-things&logoColor=white)](https://en.wikipedia.org/wiki/Internet_of_things) [![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-003B6F?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://en.wikipedia.org/wiki/Embedded_system) [![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software) [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/) [![ESP32](https://img.shields.io/badge/ESP32-2C3E50?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32) [![MQTT](https://img.shields.io/badge/MQTT-005B9A?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)](https://mqtt.org/) [![Node-RED](https://img.shields.io/badge/Node--RED-BF360C?style=for-the-badge&logo=node-red&logoColor=white)](https://nodered.org/) [![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/) [![Gazebo](https://img.shields.io/badge/Gazebo-000000?style=for-the-badge&logo=gazebo&logoColor=white)](http://gazebosim.org/) [![URDF](https://img.shields.io/badge/URDF-003B6F?style=for-the-badge&logo=xml&logoColor=white)](https://wiki.ros.org/urdf) [![RViz](https://img.shields.io/badge/RViz-FF4081?style=for-the-badge&logo=visualization&logoColor=white)](https://wiki.ros.org/rviz) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/) [![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)](https://inkscape.org/)  
 
-### 🌐 Web & CMS  
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/)  
-
-### 📊 Data Science & ML  
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)  
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)  
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/)  
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)  
-[![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=openai&logoColor=white)](https://en.wikipedia.org/wiki/Large_language_model)  
-[![NLP](https://img.shields.io/badge/NLP-00599C?style=for-the-badge&logo=natural-language-processing&logoColor=white)](https://en.wikipedia.org/wiki/Natural_language_processing)
-
-### 🔐 Cybersecurity  
-[![Nmap](https://img.shields.io/badge/Nmap-0E8A16?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)  
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)  
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)  
-[![VAPT](https://img.shields.io/badge/VAPT-000000?style=for-the-badge&logo=security&logoColor=white)](https://en.wikipedia.org/wiki/Vulnerability_assessment)  
-
-### 📡 IoT & Embedded Systems  
-[![IoT](https://img.shields.io/badge/IoT-1E4F72?style=for-the-badge&logo=internet-of-things&logoColor=white)](https://en.wikipedia.org/wiki/Internet_of_things)  
-[![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-003B6F?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://en.wikipedia.org/wiki/Embedded_system)  
-[![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)  
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)  
-[![ESP32](https://img.shields.io/badge/ESP32-2C3E50?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)  
-[![MQTT](https://img.shields.io/badge/MQTT-005B9A?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)](https://mqtt.org/)  
-[![Node-RED](https://img.shields.io/badge/Node--RED-BF360C?style=for-the-badge&logo=node-red&logoColor=white)](https://nodered.org/)  
-
-### 🤖 Robotics  
-[![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/)  
-[![Gazebo](https://img.shields.io/badge/Gazebo-000000?style=for-the-badge&logo=gazebo&logoColor=white)](http://gazebosim.org/)  
-[![URDF](https://img.shields.io/badge/URDF-003B6F?style=for-the-badge&logo=xml&logoColor=white)](https://wiki.ros.org/urdf)  
-[![RViz](https://img.shields.io/badge/RViz-FF4081?style=for-the-badge&logo=visualization&logoColor=white)](https://wiki.ros.org/rviz)  
-
-### 🛠️ Tools & Others  
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
-[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)  
-[![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)](https://inkscape.org/)  
 
 ---
 
