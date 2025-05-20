@@ -1,74 +1,111 @@
-# Hi there, I'm **KANKATI MOKSHAGNA ANURAG** 👋  
+# 👋 Hello World, I'm **Kankati Mokshagna Anurag**
 
-Welcome to my GitHub profile! I’m a passionate **Cybersecurity Specialist** with expertise in **IoT**, **Embedded Systems**, and **Machine Learning**. I love solving complex challenges with innovative solutions and am always eager to learn and grow in the tech field.  
-
----
-
-## 🚀 Tech Stack  
-
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/) [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/) [![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=openai&logoColor=white)](https://en.wikipedia.org/wiki/Large_language_model) [![NLP](https://img.shields.io/badge/NLP-00599C?style=for-the-badge&logo=natural-language-processing&logoColor=white)](https://en.wikipedia.org/wiki/Natural_language_processing) [![Nmap](https://img.shields.io/badge/Nmap-0E8A16?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/) [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/) [![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp) [![VAPT](https://img.shields.io/badge/VAPT-000000?style=for-the-badge&logo=security&logoColor=white)](https://en.wikipedia.org/wiki/Vulnerability_assessment) [![IoT](https://img.shields.io/badge/IoT-1E4F72?style=for-the-badge&logo=internet-of-things&logoColor=white)](https://en.wikipedia.org/wiki/Internet_of_things) [![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-003B6F?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://en.wikipedia.org/wiki/Embedded_system) [![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software) [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/) [![ESP32](https://img.shields.io/badge/ESP32-2C3E50?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32) [![MQTT](https://img.shields.io/badge/MQTT-005B9A?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)](https://mqtt.org/) [![Node-RED](https://img.shields.io/badge/Node--RED-BF360C?style=for-the-badge&logo=node-red&logoColor=white)](https://nodered.org/) [![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/) [![Gazebo](https://img.shields.io/badge/Gazebo-000000?style=for-the-badge&logo=gazebo&logoColor=white)](http://gazebosim.org/) [![URDF](https://img.shields.io/badge/URDF-003B6F?style=for-the-badge&logo=xml&logoColor=white)](https://wiki.ros.org/urdf) [![RViz](https://img.shields.io/badge/RViz-FF4081?style=for-the-badge&logo=visualization&logoColor=white)](https://wiki.ros.org/rviz) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/) [![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)](https://inkscape.org/)  
-
+🎯 **Cybersecurity Specialist** | 🔐 IoT & Embedded Systems Enthusiast | 🤖 ML Practitioner  
+🔎 Driven by curiosity, powered by purpose — building secure, intelligent, and connected systems.
 
 ---
 
+## 💡 About Me  
 
-## 💼 **Work Experience**  
+Welcome to my digital space! I’m a passionate and curious problem-solver, currently pursuing B.Tech in **Electronics and Communication Engineering**. With deep interest and hands-on experience in **Cybersecurity**, **IoT**, and **Machine Learning**, I’m on a mission to **build technologies that protect and empower**.
 
-### **Technical Support Engineering Intern**  
-- Troubleshot complex computer systems, software, and network issues.  
-- Collaborated with cross-functional teams to deliver solutions and enhance user experience.  
-
-### **Cyber Security Internship at ShadowFox** _(Sept 2024 - Oct 2024)_  
-- Conducted penetration testing and vulnerability analysis on systems and networks.  
-- Utilized tools like `Nmap`, `Gobuster`, `Metasploit`, and `Wireshark` to identify and resolve security flaws.  
+I thrive on challenges, love contributing to open-source, and am constantly exploring the intersection of embedded intelligence and secure communication.
 
 ---
 
-## 🎓 **Education**  
+## 🚀 Tech Arsenal  
+
+Here’s what’s in my toolbox:
+
+**Languages & Scripting**  
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+**Web & Visualization**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+**AI & ML Stack**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)  
+![NLP](https://img.shields.io/badge/NLP-00599C?style=flat-square&logo=natural-language-processing&logoColor=white)  
+
+**Cybersecurity Tools**  
+![Nmap](https://img.shields.io/badge/Nmap-0E8A16?style=flat-square&logo=nmap&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white)  
+![VAPT](https://img.shields.io/badge/VAPT-000000?style=flat-square&logo=security&logoColor=white)
+
+**IoT & Embedded Systems**  
+![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)  
+![ESP32](https://img.shields.io/badge/ESP32-2C3E50?style=flat-square&logo=espressif&logoColor=white)  
+![MQTT](https://img.shields.io/badge/MQTT-005B9A?style=flat-square&logo=eclipse-mosquitto&logoColor=white)  
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+
+**Other Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+---
+
+## 💼 Experience Highlights  
+
+### 🛠 **Technical Support Engineering Intern**  
+> Identified and resolved system and network issues, collaborated cross-functionally to streamline operations.
+
+### 🧠 **Cyber Security Intern – ShadowFox**  
+> Conducted end-to-end penetration testing using `Nmap`, `Gobuster`, `Wireshark`, `Metasploit`.  
+> Mitigated vulnerabilities and enhanced system defenses through real-time threat modeling.
+
+---
+
+## 🎓 Education  
 
 **MVGR College of Engineering**  
-B.Tech in **Electronics and Communication Engineering**  
-_(2022 - 2026)_  
+📍 *B.Tech in Electronics & Communication Engineering (2022 – 2026)*
 
 ---
 
-## 🏆 **Achievements**  
+## 🏆 Achievements  
 
-🏅 **Winner of Cyber Secured Champion Competition**  
-- Conducted by Cyber Intelligence Global LLP, recognized for exceptional cybersecurity skills and innovative problem-solving.  
-
-🥈 **Secured Second Position in AVISHKAR Season-2 Hackathon**  
-- A National Level 48-Hour Hackathon, and won a cash prize of ₹1 Lakh.  
-
-🔥 **Finalist in Serve Smart Hackathon**  
-- Among the top 10 teams selected as finalists for the event conducted by IIT Banaras.  
-
-🎖️ **Top 6 in Embedded Scholarship Exam**  
-- Secured Top 6 position in the scholarship exam conducted by SENSE Academia.  
-
-🚀 **Participant in Andhra Pradesh Hackathon on Drones**  
-- Proposed innovative solutions reviewed by judges, focusing on advanced drone technology applications.  
+- 🥇 **Cyber Secured Champion Winner** – Cyber Intelligence Global LLP  
+- 🥈 **2nd Place @ AVISHKAR Season-2 Hackathon** – ₹1 Lakh Prize  
+- 🏅 **Finalist** – Serve Smart Hackathon, IIT-BHU  
+- 🎖️ **Top 6 Rank** – Embedded Systems Scholarship, SENSE Academia  
+- 🚁 **Drones Hackathon Participant** – Andhra Pradesh Tech Fest  
 
 ---
 
-## 📊 **GitHub Stats**  
+## 📊 GitHub Insights  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MokshagnaAnurag&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MokshagnaAnurag&layout=compact&theme=dark)   
-![Contributions Streak](https://github-readme-streak-stats.herokuapp.com/?user=MokshagnaAnurag&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MokshagnaAnurag&show_icons=true&theme=tokyonight" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MokshagnaAnurag&layout=compact&theme=tokyonight" width="47%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MokshagnaAnurag&theme=tokyonight" width="60%"/>
+</p>
+
+---
+
+## 🌐 Let’s Connect  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/kankati-mokshagna-anurag)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://mokshaportfolio.netlify.app/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kankati.mokshagnaanurag@gmail.com)
 
 ---
 
-
-
-## 🌐 **Let's Connect!**  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://linkedin.com/in/kankati-mokshagna-anurag)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=google-chrome&logoColor=white)](https://mokshaportfolio.netlify.app/)  
-[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:kankati.mokshagnaanurag@gmail.com)  
+## 👁 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=MokshagnaAnurag&style=flat-square)
 
 ---
-## 👁️‍🗨️  **Profile Views**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=MokshagnaAnurag&style=for-the-badge)  
+_“Security is not a product, but a process.” — Bruce Schneier_
 
