@@ -74,10 +74,6 @@ I specialize in:
 
 ## 💼 Professional Experience
 
-### 🔧 **Technical Support Engineering Intern**  
-- Resolved complex system/network/application issues in real-time.  
-- Worked across cross-functional teams to debug infrastructure bottlenecks.
-
 ### 🛡️ **Cybersecurity Intern @ ShadowFox (Sept–Oct 2024)**  
 - Performed full-scope **Vulnerability Assessment & Penetration Testing** (VAPT).  
 - Used Nmap, Metasploit, and Wireshark to identify real-world threats and mitigations.
