@@ -109,7 +109,7 @@ _2022 – 2026_
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kankati-mokshagna-anurag)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=google-chrome&logoColor=white)](https://mokshaportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=google-chrome&logoColor=white)](https://moksha-portfolio-4fyj.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:kankati.mokshagnaanurag@gmail.com)
 
 ---
