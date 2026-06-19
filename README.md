@@ -96,20 +96,58 @@ Design and implementation of a Raspberry Pi 4 + RPLiDAR robot running SLAM Toolb
 
 ## Tech Stack
 
-**Programming**  
-`C` `Python` `MATLAB` `Bash`
+**Programming**
 
-**Robotics & Autonomous Systems**  
-`ROS 2` `Nav2` `MoveIt` `SLAM Toolbox` `Gazebo` `RViz` `URDF` `TF2` `PX4` `ArduPilot` `MAVROS` `Sensor Fusion`
+<p>
+  <img src="https://skillicons.dev/icons?i=c" title="C"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=matlab" title="MATLAB"/>
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash"/>
+</p>
 
-**Embedded Systems**  
-`STM32` `ESP32` `RP2040` `Arduino` `Raspberry Pi` `UART` `SPI` `I2C` `MQTT`
+**Robotics & Autonomous Systems**
 
-**Communication & IoT**  
-`LoRaWAN` `Zigbee` `Wi-Fi` `Bluetooth` `RFID` `NFC` `Google Firebase` `ThingSpeak`
+<p>
+  <img src="https://skillicons.dev/icons?i=ros" title="ROS 2"/>
+  <img src="https://skillicons.dev/icons?i=gazebo" title="Gazebo"/>
+  <img src="https://img.shields.io/badge/Nav2-0B2C4A?style=flat-square&logo=ros&logoColor=white" title="Nav2"/>
+  <img src="https://img.shields.io/badge/SLAM-2D3748?style=flat-square&logo=ros&logoColor=white" title="SLAM Toolbox"/>
+  <img src="https://img.shields.io/badge/PX4-5E00FF?style=flat-square&logoColor=white" title="PX4"/>
+  <img src="https://img.shields.io/badge/ArduPilot-CC0000?style=flat-square&logoColor=white" title="ArduPilot"/>
+  <img src="https://img.shields.io/badge/MoveIt-FF6F00?style=flat-square&logoColor=white" title="MoveIt"/>
+  <img src="https://img.shields.io/badge/RViz-0078D4?style=flat-square&logoColor=white" title="RViz"/>
+</p>
 
-**Tools**  
-`Linux` `Git` `OpenCV` `Fusion 360` `SolidWorks`
+**Embedded Systems**
+
+<p>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" title="STM32"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" title="ESP32"/>
+  <img src="https://img.shields.io/badge/RP2040-E4405F?style=flat-square&logo=raspberrypi&logoColor=white" title="RP2040"/>
+  <img src="https://skillicons.dev/icons?i=arduino" title="Arduino"/>
+  <img src="https://skillicons.dev/icons?i=raspberrypi" title="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" title="MQTT"/>
+</p>
+
+**Communication & IoT**
+
+<p>
+  <img src="https://img.shields.io/badge/LoRaWAN-00B0FF?style=flat-square&logoColor=white" title="LoRaWAN"/>
+  <img src="https://img.shields.io/badge/Zigbee-EB0443?style=flat-square&logo=zigbee&logoColor=white" title="Zigbee"/>
+  <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white" title="Bluetooth"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" title="Google Firebase"/>
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+  <img src="https://img.shields.io/badge/Fusion%20360-FF6D00?style=flat-square&logo=autodesk&logoColor=white" title="Fusion 360"/>
+  <img src="https://img.shields.io/badge/SolidWorks-CC0000?style=flat-square&logo=dassaultsystemes&logoColor=white" title="SolidWorks"/>
+</p>
 
 ---
 
