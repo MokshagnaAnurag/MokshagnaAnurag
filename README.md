@@ -181,7 +181,6 @@ Design and implementation of a Raspberry Pi 4 + RPLiDAR robot running SLAM Toolb
 [![Profile Views](https://komarev.com/ghpvc/?username=MokshagnaAnurag&style=flat-square&color=58A6FF)](https://github.com/MokshagnaAnurag)
 
 </div>
----
 
 <div align="center">
 
