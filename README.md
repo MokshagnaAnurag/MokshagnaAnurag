@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=ROS+2+%7C+Nav2+%7C+SLAM+%7C+Sensor+Fusion;PX4+Drone+Systems+%7C+CubeSat+Engineering;Embedded+Firmware+%7C+STM32+%7C+RP2040;Physical+AI+%7C+Autonomous+Navigation)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MokshagnaAnurag&style=flat-square&color=58A6FF)](https://github.com/MokshagnaAnurag)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kankati-mokshagna-anurag)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://moksha-portfolio-4fyj.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kankati.mokshagnaanurag@gmail.com)
@@ -176,6 +176,11 @@ Design and implementation of a Raspberry Pi 4 + RPLiDAR robot running SLAM Toolb
 
 </div>
 
+<div align="center">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=MokshagnaAnurag&style=flat-square&color=58A6FF)](https://github.com/MokshagnaAnurag)
+
+</div>
 ---
 
 <div align="center">
