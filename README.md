@@ -1,122 +1,498 @@
-# 👋 Hey there, I'm **Kankati Mokshagna Anurag**
+<h1 align="center">Hi 👋, I'm Kankati Mokshagna Anurag</h1>
 
-🎯 **Web Application Pentester | Robotics & Embedded Systems Engineer | ROS2 & Sensor Fusion Specialist | AI/ML Innovator | Simulation Expert (Gazebo/RViz)**
+<h3 align="center">
+Robotics • Embedded Systems • Physical AI • Autonomous Systems • Space Technologies
+</h3>
 
----
+<p align="center">
 
-## 🔐 Who Am I?
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=ROS2+Developer;Physical+AI+Engineer;CubeSat+Developer;Embedded+Systems+Engineer;PX4+Drone+Developer;Autonomous+Robotics+Researcher;AI+%2B+Computer+Vision+Enthusiast" />
 
-I'm a passionate technologist driven by a relentless curiosity to build, break, and secure next-generation systems. As a **Cybersecurity Enthusiast and Web Application Pentester**, I thrive on discovering vulnerabilities before the bad guys do. On the other side of the spectrum, I'm an **Embedded Systems & Robotics Engineer** who builds intelligent autonomous systems—fusing perception, motion planning, and AI.
-
-I specialize in:
-- 🛡️ **Web Application Security & VAPT**
-- 🤖 **Robotics with ROS2, URDF, RViz, and Gazebo**
-- 🌐 **IoT Architectures with ESP32/Raspberry Pi/MQTT/Node-RED**
-- ⚙️ **Embedded Programming for STM32, Arduino, and Sensor Fusion**
-- 🧠 **ML/NLP + Computer Vision using Python & OpenCV**
+</p>
 
 ---
 
-## 🧰 Tech Toolbox
+<p align="center">
 
-### 🔤 Languages & Core Tools  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=MokshagnaAnurag&style=for-the-badge&color=blue"/>
+
+</p>
 
 ---
 
-### 🔐 Cybersecurity & Pentesting  
-![Nmap](https://img.shields.io/badge/Nmap-00446C?style=flat&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-00569C?style=flat&logo=metasploit&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=flat&logo=linux&logoColor=white)
-![VeraCrypt](https://img.shields.io/badge/VeraCrypt-009379?style=flat&logo=veracrypt&logoColor=white)
+# 🚀 About Me
+
+🎓 B.Tech Electronics & Communication Engineering
+
+🏫 MVGR College of Engineering
+
+📍 Andhra Pradesh, India
+
+
+I build intelligent systems that bridge embedded hardware, autonomous robotics and AI-driven perception.
+
+Areas of Interest
+
+• ROS2
+
+• Autonomous Navigation
+
+• SLAM
+
+• Nav2
+
+• PX4
+
+• CubeSats
+
+• Embedded Systems
+
+• Computer Vision
+
+• Physical AI
+
+• IoT
+
+• Cybersecurity
+
+
 
 ---
 
-### 🤖 Embedded Systems & IoT  
-![ESP32](https://img.shields.io/badge/ESP32-333333?style=flat&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=eclipsemosquitto&logoColor=white)
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=nodered&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+# 🛠 Tech Stack
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,git,opencv,tensorflow,pytorch,arduino,raspberrypi,mysql,docker,vscode"/>
+
+</p>
+
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=matlab,github"/>
+
+</p>
+
 
 ---
 
-### 🧠 AI/ML & Computer Vision  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-2196F3?style=flat&logo=spacy&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-6A1B9A?style=flat&logo=openai&logoColor=white)
-![Vision](https://img.shields.io/badge/Computer_Vision-8E24AA?style=flat&logo=opencv&logoColor=white)
+# 🤖 Robotics Technologies
+
+
+```text
+ROS2
+Nav2
+SLAM Toolbox
+RViz
+Gazebo
+MoveIt
+TF2
+URDF
+PX4
+ArduPilot
+MAVROS
+Fusion360
+SolidWorks
+```
 
 ---
 
-### 🎮 Simulation & Robotics Tools  
-![Gazebo](https://img.shields.io/badge/Gazebo-3E8EDE?style=flat&logo=gazebo&logoColor=white)
-![RViz](https://img.shields.io/badge/RViz-888888?style=flat&logo=robotframework&logoColor=white)
-![Sensor Fusion](https://img.shields.io/badge/Sensor_Fusion-FF4081?style=flat&logo=airplayaudio&logoColor=white)
-![URDF](https://img.shields.io/badge/URDF-003B6F?style=flat&logo=xml&logoColor=white)
+# 🚀 Featured Projects
+
+
+## 🚗 Self Driving Robot
+
+
+<p align="center">
+
+<img src="assets/rplidar.gif" width="800">
+
+</p>
+
+
+ROS2 • SLAM • Nav2 • RPLidar C1
+
+
 
 ---
 
-## 💼 Professional Experience
 
-### 🛡️ **Cybersecurity Intern @ ShadowFox (Sept–Oct 2024)**  
-- Performed full-scope **Vulnerability Assessment & Penetration Testing** (VAPT).  
-- Used Nmap, Metasploit, and Wireshark to identify real-world threats and mitigations.
+## 🚁 Autonomous Drone
 
----
 
-## 📚 Education
 
-🎓 **B.Tech in Electronics & Communication Engineering**  
-MVGR College of Engineering, Andhra Pradesh  
-_2022 – 2026_
+<p align="center">
 
----
+<img src="assets/drone.gif" width="800">
 
-## 🏆 Noteworthy Achievements
+</p>
 
-- 🥇 **Winner** - *Cyber Secured Champion*, Cyber Intelligence Global LLP  
-- 🥈 **2nd Place** - *AVISHKAR Season-2 National Hackathon*, ₹1 Lakh Prize  
-- 🏅 **Finalist** - *Serve Smart Hackathon*, IIT BHU (Top 10 out of 800+ teams)  
-- 🎖️ **Top 6** - *Embedded Scholarship Exam*, SENSE Academia  
-- 🚁 **Participant** - *AP Drone Hackathon*, presented innovative UAV solutions  
 
----
 
-## 📊 GitHub Activity
+PX4
 
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MokshagnaAnurag&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MokshagnaAnurag&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MokshagnaAnurag&theme=radical)
+ROS2
+
+Gazebo
+
+ArduPilot
+
+
+
 
 ---
 
-## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kankati-mokshagna-anurag)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=google-chrome&logoColor=white)](https://moksha-portfolio-4fyj.vercel.app/)
-[![Email](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:kankati.mokshagnaanurag@gmail.com)
+
+## 🛰 CubeSat Prototype
+
+
+
+<p align="center">
+
+<img src="assets/cubesat.gif" width="800">
+
+</p>
+
+
+
+RP2040
+
+LoRaWAN
+
+Telemetry
+
+OBC
+
+
+
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=MokshagnaAnurag&style=for-the-badge)
+
+# 💼 Experience
 
 
 
-_“Security is not a product, but a process.” — Bruce Schneier_
+### 🚀 Daloft Aerospace
+
+Robotics & Simulation Intern
+
+
+Worked on
+
+
+ROS2
+
+PX4
+
+Autonomous Drones
+
+Gazebo
+
+
+
+
+---
+
+
+### 🛰 IIT Tirupati Navavishkar I-Hub
+
+
+Project Intern
+
+
+
+Worked on
+
+
+CubeSat Design
+
+
+RP2040 OBC
+
+
+LoRaWAN
+
+
+Telemetry
+
+
+
+
+---
+
+
+### 🔐 ShadowFox
+
+
+Cybersecurity Intern
+
+
+
+Performed
+
+
+Web Pentesting
+
+
+VAPT
+
+
+Wireshark
+
+
+Nmap
+
+
+
+
+
+---
+
+# 🔬 Publications
+
+
+
+### 📝 Gait Recognition Using GaitFormer
+
+
+IJRASET
+
+
+DOI
+
+
+10.22214/ijraset.2026.83339
+
+
+
+
+---
+
+
+
+### 📝 Low Cost Autonomous Mobile Robot
+
+
+Zenodo
+
+
+DOI
+
+
+10.5281/zenodo.20484853
+
+
+
+---
+
+
+
+# 🏆 Achievements
+
+
+
+🥈 AVISHKAR Season-2 National Hackathon
+
+
+₹1,00,000 Prize Winner
+
+
+
+
+
+🏅 Serve Smart IIT BHU
+
+
+Top 10 Finalist
+
+
+
+
+
+🥇 Cyber Secured Champion
+
+
+
+
+
+🏅 Embedded Scholarship Exam
+
+
+Rank 6
+
+
+
+
+
+---
+
+
+# 📈 Github Stats
+
+
+
+<p align="center">
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MokshagnaAnurag&show_icons=true&theme=tokyonight"/>
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MokshagnaAnurag&layout=compact&theme=tokyonight"/>
+
+
+
+</p>
+
+
+
+---
+
+
+# 🔥 Github Streak
+
+
+
+
+<p align="center">
+
+
+<img src="https://streak-stats.demolab.com?user=MokshagnaAnurag&theme=tokyonight"/>
+
+
+
+</p>
+
+
+
+
+---
+
+
+# 🏆 GitHub Trophies
+
+
+
+<p align="center">
+
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=MokshagnaAnurag&theme=radical&margin-w=15&margin-h=15"/>
+
+
+
+</p>
+
+
+
+
+---
+
+
+
+# 📈 Contribution Graph
+
+
+
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MokshagnaAnurag&theme=react-dark)](https://github.com/MokshagnaAnurag)
+
+
+
+
+---
+
+
+
+# 🐍 Contribution Snake
+
+
+
+
+<p align="center">
+
+
+
+<img src="https://raw.githubusercontent.com/MokshagnaAnurag/MokshagnaAnurag/output/github-contribution-grid-snake-dark.svg">
+
+
+
+</p>
+
+
+
+
+---
+
+
+
+
+# 🌐 Connect With Me
+
+
+
+<p align="center">
+
+
+
+<a href="mailto:kankati.mokshagnaanurag@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+
+</a>
+
+
+
+
+<a href="https://linkedin.com/in/kankati-mokshagna-anurag">
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+
+</a>
+
+
+
+
+
+<a href="https://github.com/MokshagnaAnurag">
+
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+
+</a>
+
+
+
+
+<a href="https://moksha-portfolio-4fyj.vercel.app/">
+
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome">
+
+</a>
+
+
+
+
+</p>
+
+
+
+---
+
+
+
+<p align="center">
+
+
+<i>
+
+"Design systems that think quietly and act intelligently."
+
+</i>
+
+
+</p>
 
