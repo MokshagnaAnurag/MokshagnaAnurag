@@ -1,6 +1,11 @@
+<!--
+  SETUP: banner renders once assets/mokshagna_anurag_github_animated.gif exists in THIS repo.
+  It's already at: github.com/MokshagnaAnurag/MokshagnaAnurag/tree/main/assets — nothing more to do.
+-->
+
 <div align="center">
 
-<img src="./assets/banner.gif" alt="Mokshagna Anurag Kankati — Robotics, Embedded Systems & Space Tech" width="100%" />
+<img src="./assets/mokshagna_anurag_github_animated.gif" alt="Mokshagna Anurag Kankati — Robotics, Embedded Systems & Space Tech" width="100%" />
 
 <br/>
 
@@ -55,23 +60,42 @@ I build systems that operate reliably at the intersection of hardware and softwa
 
 ## Featured Projects
 
+### ⭐ Flagship Work
+
 <table>
 <tr>
 <td width="50%" valign="top">
+<img src="https://img.shields.io/badge/⭐_FLAGSHIP-FF8A00?style=flat-square&labelColor=111111" /><br/><br/>
 
-**🛰 CubeSat Prototype**
-Modular 1U CubeSat with RP2040-based onboard computer, LoRaWAN telemetry, power management, and ground-station software.
-`STM32` `RP2040` `LoRaWAN` `RTOS` `Telemetry`
+### 🛰️ CubeSat Prototype
+Modular **1U CubeSat** built around an RP2040-based onboard computer, LoRaWAN telemetry, power management, and full ground-station software for spacecraft health monitoring — developed with IIT Tirupati's I-Hub Foundation.
+
+![STM32](https://img.shields.io/badge/STM32-00FF41?style=flat-square&logo=stmicroelectronics&logoColor=black)
+![RP2040](https://img.shields.io/badge/RP2040-00FF41?style=flat-square&logoColor=black)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-FF3131?style=flat-square&logoColor=white)
+![RTOS](https://img.shields.io/badge/RTOS-00FF41?style=flat-square&logoColor=black)
+![Telemetry](https://img.shields.io/badge/Telemetry-FF00D4?style=flat-square&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
+<img src="https://img.shields.io/badge/⭐_FLAGSHIP-00E5FF?style=flat-square&labelColor=111111" /><br/><br/>
 
-**🚁 Autonomous Drone Systems**
-Flight stack and perception on PX4-driven UAVs — SLAM, obstacle avoidance, and Gazebo simulation environments.
-`PX4` `ArduPilot` `ROS 2` `Gazebo` `LiDAR`
+### 🚁 Autonomous Drone Systems
+Full flight stack and perception pipeline on **PX4-driven UAVs** — SLAM-based localization, obstacle avoidance, and physics-accurate Gazebo simulation environments for mission testing before real-world flight.
+
+![PX4](https://img.shields.io/badge/PX4-00E5FF?style=flat-square&logoColor=black)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-00E5FF?style=flat-square&logoColor=black)
+![ROS2](https://img.shields.io/badge/ROS2-008CFF?style=flat-square&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-008CFF?style=flat-square&logo=gazebo&logoColor=white)
+![LiDAR](https://img.shields.io/badge/LiDAR-008CFF?style=flat-square&logoColor=white)
 
 </td>
 </tr>
+</table>
+
+### 🧩 More Projects
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -98,12 +122,33 @@ AI-powered traffic light system using Raspberry Pi and OpenCV — a 30% congesti
 </td>
 <td width="50%" valign="top">
 
-**More projects →**
-AMR Package · Self-Balancing Robot · Line Following Robot · GaitFormer Recognition · Semantic Segmentation · Phishing Link Scanner · Map Text Extractor (OCR) · Cybercrime Reporting Chatbot · Voice Gender Recognition · Steganography (LSB) · IoV Navigation · Voice AI Telugu
+**🛞 AMR Package**
+Professional ROS 2 package with 4WD drivetrain, full URDF model, Gazebo simulation, and SolidWorks CAD.
+`ROS 2` `URDF` `Gazebo` `SolidWorks`
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>See all other projects →</b></summary>
+<br/>
+
+| Project | Description |
+|---|---|
+| **Self-Balancing Robot** | MPU6050 + PID control for real-time two-wheeled balance |
+| **Line Following Robot** | IR sensor array with PID for rapid path tracking |
+| **Gait Recognition (GaitFormer)** | Transformer-based biometric identification on the CASIA-B dataset |
+| **Semantic Segmentation** | Pixel-level scene classification for autonomous vehicle perception (TensorFlow/Keras) |
+| **Phishing Link Scanner** | 200+ URL analysis with VirusTotal API integration |
+| **Map Text Extractor (OCR)** | Topographic map region/place name extraction with EasyOCR |
+| **Cybercrime Reporting Chatbot** | Intent recognition + Gradio frontend using Scikit-learn |
+| **Voice Gender Recognition** | MATLAB-based MFCC feature extraction and ML classification |
+| **Steganography (LSB)** | Python implementation of image-based covert message encoding |
+| **IoV Navigation Systems** | Connected-vehicle routing with V2X and Edge AI |
+| **Voice AI · Telugu** | Low-resource ASR research toward a natural Telugu speech interface |
+
+</details>
 
 ---
 
@@ -165,39 +210,52 @@ Design and implementation of a Raspberry Pi 4 + RPLiDAR robot running SLAM Toolb
 
 ## Tech Stack
 
-**Programming & AI Frameworks**
-![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+**`01`  Programming & AI Frameworks**
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-**Embedded & Microcontrollers**
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-000000?style=flat-square&logo=freertos&logoColor=white)
+**`02`  Embedded & Microcontrollers**
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Nvidia](https://img.shields.io/badge/Nvidia_Orin_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=black)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-000000?style=for-the-badge&logo=freertos&logoColor=white)
+<br/>`ARM Cortex-M`
 
-**UAV & Flight Systems**
-`Pixhawk 6C` `Pixhawk 2.4.8` `Cube Orange` `ArduPilot` `PX4` `QGroundControl` `Mission Planner` `MAVLink` `MAVProxy`
+**`03`  Hardware Design**
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+<br/>`Circuit Analysis` · `Oscilloscope` · `3D Printing` · `SolidWorks` · `Fusion 360`
 
-**Robotics & Automation**
-![ROS](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=flat-square&logo=gazebo&logoColor=white)
-`RPLIDAR` `Nav2` `MoveIt` `RViz` `SLAM` `PID Control` `NVIDIA Isaac Sim` `Webots` `MuJoCo`
+**`04`  UAV & Flight Systems**
+`Pixhawk 6C` · `Pixhawk 2.4.8` · `Cube Orange` · `ArduPilot` · `PX4` · `QGroundControl` · `Mission Planner` · `MAVLink` · `MAVProxy`
 
-**Communication Protocols & IoT**
-`UART` `SPI` `I2C` `CAN Bus` `LoRaWAN` `Zigbee` `Wi-Fi` `BLE` `RFID` `MQTT` `WebSocket`
+**`05`  Robotics & Automation**
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=white)
+![NVIDIA Isaac Sim](https://img.shields.io/badge/NVIDIA_Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=black)
+<br/>`RPLIDAR` · `IMU` · `Motor Control` · `URDF` · `RViz` · `SLAM` · `Nav2` · `MoveIt` · `PID Control` · `Webots` · `MuJoCo`
 
-**Hardware Design & Tools**
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-`Fusion 360` `SolidWorks` `AWS IoT Core` `Firebase` `Supabase` `MySQL`
+**`06`  Communication Protocols & IoT**
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![BLE](https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+<br/>`UART` · `SPI` · `I2C` · `CAN Bus` · `LoRaWAN` · `Zigbee` · `Wi-Fi` · `RFID` · `WebSocket`
+
+**`07`  Telemetry & Edge Infrastructure**
+![AWS IoT Core](https://img.shields.io/badge/AWS_IoT_Core-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br/>`ThingSpeak`
 
 ---
 
@@ -227,14 +285,15 @@ Design and implementation of a Raspberry Pi 4 + RPLiDAR robot running SLAM Toolb
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MokshagnaAnurag&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MokshagnaAnurag&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MokshagnaAnurag&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=MokshagnaAnurag&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MokshagnaAnurag&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MokshagnaAnurag&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165"/>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MokshagnaAnurag&color=00E5FF&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/MokshagnaAnurag?style=for-the-badge&color=00E5FF&labelColor=111111)
+![Profile Views](https://komarev.com/ghpvc/?username=MokshagnaAnurag&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
